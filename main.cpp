@@ -1,4 +1,6 @@
 //some feature
+//This is example program
+//Author: Liskin&Ibragimov, KE-217, 2024.
 #include <iostream>
 
 using namespace std;
